@@ -6,13 +6,17 @@
 
 ### This guide will go over the tools, techniques , and mental exercises needed to make you more efficient working from home.
 
-Tools
+## Tools
 
 Zoom
 
 Skype
 
+G Suite
+
 Google video
+
+BlueJeans video
 
 Jitsi meet
 
