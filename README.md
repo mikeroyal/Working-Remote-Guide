@@ -8,6 +8,8 @@
 
 #### Recommended read: [Why the 2020s will be the Remote Work Decade by Chris Herd](https://www.linkedin.com/pulse/why-2020s-remote-work-decade-chris-herd).
 
+#### [Productivity Masterclass - Principles and Tools to Boost Your Productivity by Ali Abdaal](https://www.skillshare.com/classes/Productivity-Masterclass-Principles-and-Tools-to-Boost-Your-Productivity/647318269?via=user-profile)
+
 ## Tools
 
 Zoom
