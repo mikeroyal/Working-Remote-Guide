@@ -18,7 +18,7 @@
 
 [G Suite](https://gsuite.google.com/) is a suite of cloud computing, productivity and collaboration tools, software and products developed by Google such as Gmail, Docs, Drive, Calendar, Meet(video chat) and more for business.
 
-[BlueJeans video](https://www.bluejeans.com/) is the world's leader in cloud video conferencing. Easily and securely hold live video calls, webinars, conference calls, and online meetings. Has been acquired by Verizon as of May 2020.
+[BlueJeans](https://www.bluejeans.com/) is the world's leader in cloud video conferencing. Easily and securely hold live video calls, webinars, conference calls, and online meetings. Has been acquired by Verizon as of May 2020.
 
 [Jitsi meet](https://jitsi.org/jitsi-meet/) is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.
 
