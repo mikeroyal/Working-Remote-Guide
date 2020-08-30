@@ -4,7 +4,7 @@
  Working Remote Guide
 </h1>
 
-#### This guide will go over the tools, techniques, and mental exercises needed to make you more efficient working from home.
+#### This guide will go over the tools and techniques needed to make you more efficient working from home.
 
 #### Recommended read: [Why the 2020s will be the Remote Work Decade by Chris Herd](https://www.linkedin.com/pulse/why-2020s-remote-work-decade-chris-herd).
 
@@ -24,7 +24,7 @@
 
 [Slack](https://slack.com/) is a team communication and collaboration hub all rolled into one place so your team can get more work done, whether you belong to a large enterprise or a small business.
 
-[Mattermost](https://mattermost.com/) is an open source Slack alternative. It's written in Golang and React and runs as a single Linux binary with MySQL or PostgreSQL. Use the features you like (file sharing, real-time group chat and webhooks—to name a few) and access the source code. It mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
+[Mattermost](https://mattermost.com/) is an open source Slack alternative. It's written in Golang and React and runs as a single Linux binary with MySQL or PostgreSQL. Use the features you like (file sharing, real-time group chat and webhooks—to name a few) and access the source code. Mattermost mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
 
 [Discord](https://discord.com/) instant messaging and VoIP application platform designed for creating communities ranging from gamers, education, and businesses. Easily create/enter chat rooms, initiate video calls, and create multiple groups for messaging friends. Discord specializes in text, image, video and audio communication between users in a chat channel.
 
