@@ -6,9 +6,31 @@
 
 #### This guide will go over the tools and techniques needed to make you more efficient working from home.
 
-#### Recommended read: [Why the 2020s will be the Remote Work Decade by Chris Herd](https://www.linkedin.com/pulse/why-2020s-remote-work-decade-chris-herd).
+## Resources
 
-#### [Productivity Masterclass - Principles and Tools to Boost Your Productivity by Ali Abdaal](https://www.skillshare.com/classes/Productivity-Masterclass-Principles-and-Tools-to-Boost-Your-Productivity/647318269?via=user-profile)
+[Remote Working Solutions from Microsoft](https://www.microsoft.com/en-us/resilience/remote-working-solutions)
+
+[How stay productive while working remotely with Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/work-remotely)
+
+[Distance & Remote Learning from Microsoft Education](https://www.microsoft.com/en-us/education/remote-learning)
+
+[Remote Working: Setting Yourself and Your Teams Up for Success from Linkedin Learning](https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success)
+
+[Productivity Masterclass - Principles and Tools to Boost Your Productivity by Ali Abdaal](https://www.skillshare.com/classes/Productivity-Masterclass-Principles-and-Tools-to-Boost-Your-Productivity/647318269?via=user-profile)
+
+[Best Practices for Working Remotely from Udemy](https://www.udemy.com/course/quick-guide-to-working-remotely-from-vp-of-learning/)
+
+[Learning new remote work strategies courses from Coursera](https://www.coursera.org/collections/remote-work-strategies)
+
+[GitLab's Guide to Going All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
+
+[Best Practices for Working Remotely from Cisco](https://www.webex.com/webexremotework.html)
+
+[The benefits of remote work for both employees and managers from WeWork](https://www.wework.com/ideas/worklife/benefits-of-working-remotely)
+
+[Working Remotely by Havard Business Publishing](https://www.harvardbusiness.org/when-remote-work-is-the-only-option/)
+
+[Why the 2020s will be the Remote Work Decade by Chris Herd](https://www.linkedin.com/pulse/why-2020s-remote-work-decade-chris-herd).
 
 ## Tools
 
@@ -16,7 +38,7 @@
 
 [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365) is an integrated cloud platform that delivers industry-leading productivity apps like [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software), [Skype](https://www.skype.com/en/), Word, Excel, and PowerPoint, along with intelligent cloud services and world-class security.
 
-[G Suite](https://gsuite.google.com/) is a suite of cloud computing, productivity and collaboration tools, software and products developed by Google such as Gmail, Docs, Drive, Calendar, Meet(video chat) and more for business.
+[Google Workspace](https://workspace.google.com/) is a suite of cloud computing, productivity and collaboration tools, software and products developed by Google such as Gmail, Docs, Drive, Calendar, Meet(video chat) and more for business.
 
 [BlueJeans](https://www.bluejeans.com/) is the world's leader in cloud video conferencing. Easily and securely hold live video calls, webinars, conference calls, and online meetings. Has been acquired by Verizon as of May 2020.
 
