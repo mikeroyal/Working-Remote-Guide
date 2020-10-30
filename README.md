@@ -48,6 +48,8 @@
 
 [Mattermost](https://mattermost.com/) is an open source Slack alternative. It's written in Golang and React and runs as a single Linux binary with MySQL or PostgreSQL. Use the features you like (file sharing, real-time group chat and webhooks—to name a few) and access the source code. Mattermost mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
 
-[Discord](https://discord.com/) instant messaging and VoIP application platform designed for creating communities ranging from gamers, education, and businesses. Easily create/enter chat rooms, initiate video calls, and create multiple groups for messaging friends. Discord specializes in text, image, video and audio communication between users in a chat channel.
+[Discord](https://discord.com/) is an instant messaging and VoIP application platform designed for creating communities ranging from gamers, education, and businesses. Easily create/enter chat rooms, initiate video calls, and create multiple groups for messaging friends. Discord specializes in text, image, video and audio communication between users in a chat channel.
 
 [Twitch](https://www.twitch.tv/) is the world`s leading video and community platform that brings large groups of people together. Whether you're there for games, live music, educational tutorials, and other creative pieces of content.
+
+[Amazon Interactive Video Service (Amazon IVS)](https://aws.amazon.com/ivs/) is a managed live streaming solution that is quick and easy to set up, and ideal for creating interactive video experiences. Send your live streams to Amazon IVS using streaming software and the service does everything you need to make low-latency(under 5 seonds) live video available to any viewer around the world, letting you focus on building interactive experiences alongside the live video.
