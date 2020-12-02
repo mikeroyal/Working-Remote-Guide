@@ -53,3 +53,11 @@
 [Twitch](https://www.twitch.tv/) is the world`s leading video and community platform that brings large groups of people together. Whether you're there for games, live music, educational tutorials, and other creative pieces of content.
 
 [Amazon Interactive Video Service (Amazon IVS)](https://aws.amazon.com/ivs/) is a managed live streaming solution that is quick and easy to set up, and ideal for creating interactive video experiences. Send your live streams to Amazon IVS using streaming software and the service does everything you need to make low-latency(under 5 seconds) live video available to any viewer around the world, letting you focus on building interactive experiences alongside the live video.
+
+[Synology Drive](https://www.synology.com/en-global/dsm/feature/drive) is a data management and collaboration tool that synchronizes files across various platforms, fulfilling your office online editing and seamless granular sharing needs with Google Drive, Dropbox, and Box right on your Synology NAS.
+
+[Syncthing](https://syncthing.net/) is an open source continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protecting your data from prying eyes.
+
+[Citrix Virtual Apps and Desktops](https://www.citrix.com/products/citrix-virtual-apps-and-desktops/) is a virtualization solution for application and desktop delivery to any device, over any network, while enhancing data security, reducing costs, and empowering productivity.
+
+[TeamViewer](https://www.teamviewer.com/en/) is a feature packed remote access software that enables people to share their screens with other devices. The remote management suite includes chat messaging, audio calls, and video communication during your sessions.
