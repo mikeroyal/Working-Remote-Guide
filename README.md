@@ -6,7 +6,14 @@
 
 #### This guide will go over the tools and techniques needed to make you more efficient working from home.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123559321-2438f480-d750-11eb-889d-f00df4bc2bd8.png">
+  <br />
+</p>
+
+# Remote Work Learning Resources
 
 [Remote Working Solutions from Microsoft](https://www.microsoft.com/en-us/resilience/remote-working-solutions)
 
@@ -32,7 +39,7 @@
 
 [Why the 2020s will be the Remote Work Decade by Chris Herd](https://www.linkedin.com/pulse/why-2020s-remote-work-decade-chris-herd).
 
-## Tools
+# Remote Work Productivity Tools
 
 [Zoom](https://zoom.us/) is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms.
 
@@ -61,3 +68,14 @@
 [Citrix Virtual Apps and Desktops](https://www.citrix.com/products/citrix-virtual-apps-and-desktops/) is a virtualization solution for application and desktop delivery to any device, over any network, while enhancing data security, reducing costs, and empowering productivity.
 
 [TeamViewer](https://www.teamviewer.com/en/) is a feature packed remote access software that enables people to share their screens with other devices. The remote management suite includes chat messaging, audio calls, and video communication during your sessions.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/-Guide/pulls).
+
+
+## License
+
+[Back to the Top](https://github.com/mikeroyal/-Guide/blob/main/README.md#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
